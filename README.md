@@ -1,4 +1,4 @@
 # Hand-Controlled-Bird-Game
 Hand-Controlled Bird Game
 
-![alt text](http://FlappyBird_Pygame/Flappy output/Screenshot (137).png)
+![Screenshot (137)](https://github.com/user-attachments/assets/09100113-872d-4c66-9161-5ca6e80064a2)
